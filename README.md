@@ -62,10 +62,11 @@ Stay tuned! I’ll be adding my best web development and AI projects here soon.
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Activity Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Soumikdas3210/Soumikdas3210/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Soumikdas3210/Soumikdas3210/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rezwoan/Rezwoan/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 ---
