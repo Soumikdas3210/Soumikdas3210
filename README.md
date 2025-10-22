@@ -1,16 +1,85 @@
 ## Hi there 👋
 
-<!--
-**Soumikdas3210/Soumikdas3210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Banner ------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-Here are some ideas to get you started:
+![Hi, I am Soumik](./A_digital_GitHub_profile_README_displays_Soumik's_.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About Me ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 👋 About Me
+
+CS student passionate about **AI** and **software development**.  
+I am currently in my **third year of university**, learning **web development** and doing **research for writing a paper**.  
+My current goal is **to go abroad for my Master’s**, and ultimately, I aim to become an **AI Engineer**.
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills -------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 🧠 Skills
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | C, C++, C#, Python, HTML, CSS, JavaScript |
+| **Frameworks** | React, Node.js |
+| **Tools** | Git, VSCode |
+| **Database** | MySQL |
+| **Design** | Figma |
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 💼 Projects
+
+> 🚧 *Coming Soon...*  
+Stay tuned! I’ll be adding my best web development and AI projects here soon.
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats & Activity Graph -------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 📊 GitHub Stats
+
+| ![Soumik’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumikdas3210&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10) | ![Soumik’s GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Soumikdas3210&theme=tokyonight&hide_border=true&border_radius=10) |
+| -- | -- |
+
+![Soumik’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumikdas3210&bg_color=0d1117&color=ffffff&line=0078ff&point=00ffaa&area=true&hide_border=true)
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Soumikdas3210/Soumikdas3210/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Social Links ------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/soumik-das-das-a96bba38b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Soumik LinkedIn"/></a>
+  <a href="mailto:soumikdas3210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Soumik Gmail"/></a>
+  <a href="https://github.com/Soumikdas3210"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Soumik GitHub"/></a>
+</div>
+
+---
+
+⭐ *Thanks for visiting my profile! More exciting updates coming soon.* 🚀
